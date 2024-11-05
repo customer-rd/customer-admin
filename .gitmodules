@@ -1,0 +1,3 @@
+[submodule "server/protocal"]
+	path = server/protocal
+	url = git@github.com:customer-rd/protocal.git
